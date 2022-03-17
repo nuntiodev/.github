@@ -15,7 +15,7 @@ Furthermore, each block automatically handles extra metadata and encryption, whi
 You are welcome to contribute to one of our Softcorp API Blocks:
  - [User Block](https://github.com/softcorp-io/block-user-service): simple, secure and scalable user management.
 ## What is Nuntio by Softcorp? 🤙
-Nuntio by Softcorp is a verified & responsible social network that we are currently building. Stay tuned 😎
+Nuntio by Softcorp is a verified & responsible social network that we are currently building on top of Softcorp Blocks. Stay tuned 😎
 
 ## What is Softcorp Cloud? ☁️
 Softcorp Cloud is build on top of the above open-source projects. Softcorp Cloud enables your organization to build an MVP fast, and when you have a battle-tested idea, you can
