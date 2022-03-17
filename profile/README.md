@@ -17,7 +17,7 @@ You are welcome to contribute to one of our Softcorp API Blocks:
 ## What is Nuntio by Softcorp? 🤙
 Nuntio by Softcorp is a verified & responsible social network that we are currently building. Stay tuned 😎
 
-## What is Softcorp Cloud? 
+## What is Softcorp Cloud? ☁️
 Softcorp Cloud is build on top of the above open-source projects. Softcorp Cloud enables your organization to build an MVP fast, and when you have a battle-tested idea, you can
 easily move the open-source building blocks from Softcorp Cloud to your own data center! We will even help you with it.
 Go to [Softcorp Cloud](https://cloud.softcorp.io) and get started right away! 
