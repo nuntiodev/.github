@@ -13,7 +13,7 @@ any Linux-based environment and that you can connect to through our simple SDK.
 Our blocks are simple and are meant for your applications to build upon. The blocks are all stateless, scales horizontally and comes with a large set of tests.
 Furthermore, each block automatically handles extra metadata and encryption, which means you can customize them to handle almost any environment!
 You are welcome to contribute to one of our Softcorp API Blocks:
- - [User Block](https://github.com/softcorp-io/block-user-service): simple and secure user management.
+ - [User Block](https://github.com/softcorp-io/block-user-service): simple, secure and scalable user management.
 ## What is Nuntio by Softcorp? 🤙
 Nuntio by Softcorp is a verified & responsible social network that we are currently building. Stay tuned 😎
 
