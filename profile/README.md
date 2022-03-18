@@ -3,7 +3,7 @@
 ![Softcorp-io](https://raw.githubusercontent.com/softcorp-io/website/main/softcorp/cover_white/cover_white.png)
 
 ## Who are we? 🤔
-Softcorp is softawre company based in Denmark that develops open source, stateless and horizontally scalable microservice software. We are the proud creators of **Softcorp Blocks**, **Nuntio by Softcorp** and **Softcorp Cloud** which you can read about below. 
+Softcorp is a software company based in Denmark that develops open source, stateless and horizontally scalable microservice software. We are the proud creators of **Softcorp Blocks**, **Nuntio by Softcorp** and **Softcorp Cloud** which you can read about below. 
 We also help companies build scalable, secure and future-proof software. If you need help building a new product or want to get started with Softcorp Cloud, [contact us](https://softcorp.io/contact) or go to our [website](https://softcorp.io) to read more about what we do.
 
 ## What is Softcorp Blocks? 🧱
