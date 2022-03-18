@@ -9,7 +9,9 @@ We also help companies build scalable, secure and future-proof software. If you 
 ## What is Softcorp Blocks? 🧱
 Are you tired of building the same service over and over again?
 We are, and that's why we have created Softcorp Blocks. These are modular and simple API building blocks that run on
-any Linux-based environment and that you can connect to through our simple SDK.
+any Linux-based environment and that you can connect to through our simple SDKs:
+ - [Block Golang SDK](https://github.com/softcorp-io/go-blocks)
+
 Our blocks are simple, use open source technology and is intended for your applications to built on top of. The blocks are all stateless, scales horizontally and comes with a large set of tests.
 Furthermore, each block automatically handles extra metadata and encryption, which means you can customize them to handle almost any environment!
 You are welcome to contribute to one of our Softcorp API Blocks:
