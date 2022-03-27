@@ -21,5 +21,5 @@ You are welcome to contribute to one of our Softcorp API Blocks:
 Social by Softcorp is a verified & responsible social network that we are currently building on top of Softcorp Blocks and National ID Providers. Stay tuned 😎
 
 ## What is Softcorp Cloud? ☁️
-Softcorp Cloud is build on top of the above open source projects. Softcorp Cloud enables your organization to build an MVP fast, and when you have a battle-tested idea, you can easily move the open source building blocks from Softcorp Cloud to your own data center! We will even help you with it.
+Softcorp Cloud is build on top of the above open source projects. Softcorp Cloud enables your organization to go to market faster, and when you have a battle-tested idea, you can easily move the open source building blocks from Softcorp Cloud to your own data center! We will even help you with it.
 Go to [Softcorp Cloud](https://cloud.softcorp.io) and get started right away! 
