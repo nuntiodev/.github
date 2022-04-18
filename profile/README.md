@@ -1,4 +1,4 @@
-# Welcome to  Softcorp! 👋
+# Welcome to  Nuntio! 👋
 
 ![Softcorp-io](https://raw.githubusercontent.com/softcorp-io/website/main/nuntio/nuntio_cover.png)
 ## We build open-source software
