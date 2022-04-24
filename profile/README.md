@@ -7,7 +7,7 @@ Building Nuntio Blocks: secure, efficient & open-source API blocks that run on a
 ## Contribute
 Check our our pinned repositories and give us a star - this will help more than you think.
 
-## Buy me a cup of coffee!
-We are a small team that spends many hours building these API blocks - if you want to support our work, buy our founder a cup of coffee below:
+## Buy us a cup of coffee!
+We are a small team that spends many hours building these API blocks - if you want to support our work, buy the team a cup of coffee below:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sinbadio)
